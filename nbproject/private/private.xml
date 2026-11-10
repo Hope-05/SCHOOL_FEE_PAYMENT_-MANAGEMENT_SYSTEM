@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/dao/GenericDao.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/model/user.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/dao/FeeStructureDao.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/exception/DuplicateReferenceException.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/model/feeStructure.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/dao/StudentDao.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/dao/UserDao.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/dao/InvoiceDao.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/exception/OverpaymentException.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/view/app.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/service/PaymentService.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/model/payment.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/exception/FeesSystemException.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/exception/InvalidAmountException.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/model/invoice.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/dao/PaymentDao.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/xx/OneDrive%20-%20Ashesi%20University/Documents/NetBeansProjects/SCHOOLFEESPAYMENTMANAGEMENTSYSTEM/src/model/student.java</file>
+        </group>
+    </open-files>
+</project-private>
